@@ -17,7 +17,7 @@ We at GDSC PDEU believe in open-source softwares and thrive to collaborate and t
 
 - Our organization has included more than 30 open source repository in hacktoberfest 2021 for contribution and to help this open source community grow
 - **'FOSStober'** a event in collaboration with 4 other GDSCs was also conducted on 3rd October in which we have discussed on how can a beginner contribute to any open source 
-repository with respect to their skill se
+repository with respect to their skill set. You can find our projects <a href ="https://turquoise-fir-711.notion.site/7aa6c812de0241c483a3e8d920a64b95?v=1f33ca2d5d52438cabb30015255dd5f3">***here***</a>
 
 # Tech Stack used under our repository
 
