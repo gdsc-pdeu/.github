@@ -29,8 +29,8 @@ Blockchain<br>**
 
 # Join our Community :
 
-<a href="https://www.linkedin.com/company/developer-student-clubs-pdeu"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="50" width="50"></a> &ensp;
-<a href="https://discord.gg/CMPpkvxcsg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="50" width="50" margin-top="100" /></a>&ensp;
-<a href="https://www.instagram.com/dsc.pdeu/?utm_medium=copy_link"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/company/developer-student-clubs-pdeu"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg"  height="50" width="50"></a> &ensp;
+<a href="https://discord.gg/CMPpkvxcsg"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50" width="50" margin-top="100" /></a>&ensp;
+<a href="https://www.instagram.com/dsc.pdeu/?utm_medium=copy_link"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" height="50" width="50" /></a>
 <br> <br>
 **We welcome you all to contribute to our projects within the guidelines of Hacktoberfest.**
